@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pytest:*)",
+      "Bash(python:*)",
+      "Read(./**)",
+      "Edit(./nn.py)",
+      "Edit(./train.py)",
+      "Edit(./progress.md)"
+    ]
+  }
+}
