@@ -28,3 +28,13 @@ for the next milestone.
 
 The tests decide when you're done — not the tutor. When they all pass, you've trained a neural
 network from scratch. Run `python train.py` any time to watch the loss drop.
+
+---
+
+## More from Onlearn
+
+This is **Project 2** of **[Neural Networks: Zero to Hero](https://onlearn.app/projects/nn-zero-to-hero)**
+on Onlearn — guided, build-it-yourself projects with an AI tutor that checks your work against
+the tests.
+
+**[→ Explore more courses](https://onlearn.app/projects)**
